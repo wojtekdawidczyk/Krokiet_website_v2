@@ -35,6 +35,11 @@ p{
 }
 
 a{
+  color: #cff1ef;
+  text-decoration: none;
+}
+
+.a-old-website{
   color: #fbc490;
   text-decoration: underline;
 }
